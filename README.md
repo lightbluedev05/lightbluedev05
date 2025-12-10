@@ -10,11 +10,21 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mihael-cristobal-rojas" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mcrlightblue@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1" width="100%">
 
 ## 🚀 Sobre mí
 
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp5cXNsMjZpNThpMnZ4ZmQ0ZzJ4bnp4Y21sdHVvaDhncTY0amJociZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif"/>
 
 - 🎓 Estudiante de **Ingeniería de Software** en la **UNMSM**
 - 💻 Me apasiona el desarrollo **full-stack** y las **arquitecturas limpias**
@@ -40,6 +50,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1" width="100%">
 
 ## 🛠️ Tech Stack
+
+<div align="right">
+<img align="center" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGwxZTZkMXc1bXR6N3Z5NHZvenV3aWN1cWlzdWV2bXZiMmUzM3owaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/t6Kf2qs5fgWiAlOig5/giphy.gif"/>
+
+<img align="center" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHBiamh3czJyNDBpamd0cmZwbG40bTYyaTBkcXdudGh5NWxkeWNsZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1wpxG15ZRRwUo94ytP/giphy.gif"/>
+</div>
+
 
 <div align="left">
 
@@ -115,18 +132,6 @@
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1" width="100%">
-
-## 🌐 Conéctate conmigo
-
-<div align="center">
-  <a href="www.linkedin.com/in/mihael-cristobal-rojas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mcrlightblue@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
 
 
 <!-- Footer -->
