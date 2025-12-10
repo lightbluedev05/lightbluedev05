@@ -52,9 +52,9 @@
 ## 🛠️ Tech Stack
 
 <div align="right">
-<img align="center" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGwxZTZkMXc1bXR6N3Z5NHZvenV3aWN1cWlzdWV2bXZiMmUzM3owaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/t6Kf2qs5fgWiAlOig5/giphy.gif"/>
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGwxZTZkMXc1bXR6N3Z5NHZvenV3aWN1cWlzdWV2bXZiMmUzM3owaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/t6Kf2qs5fgWiAlOig5/giphy.gif"/>
 
-<img align="center" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHBiamh3czJyNDBpamd0cmZwbG40bTYyaTBkcXdudGh5NWxkeWNsZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1wpxG15ZRRwUo94ytP/giphy.gif"/>
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHBiamh3czJyNDBpamd0cmZwbG40bTYyaTBkcXdudGh5NWxkeWNsZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1wpxG15ZRRwUo94ytP/giphy.gif"/>
 </div>
 
 
